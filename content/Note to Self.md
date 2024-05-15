@@ -1,5 +1,7 @@
 ---
 draft: true
+tags:
+  - note
 ---
 Run this command to update the GitHub repo with any changes.
 ```bash
